@@ -73,6 +73,7 @@ img{
   max-width: 100%;
   height: auto;
   display: block;
+  width: auto;
 }
 
 /*===== CLASS CSS ===== */
@@ -216,7 +217,9 @@ img{
   position: absolute;
   right: 0;
   bottom: 0;
-  width: 95px;
+  width: 100px;
+  height: 500px;
+  border-radius: 10px;
 }
 
 /*BUTTONS*/
